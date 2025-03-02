@@ -15,7 +15,6 @@ I love crafting seamless user experiences, optimizing web applications for perfo
 
 ### 📫 How to Reach Me  
 - [LinkedIn](https://www.linkedin.com/in/pavani-nayak-94b883212/)  
-- 
 - [Email](nayakpavani676@gmail.com)  
 
 ⚡ **Fun Fact:** I’m building a **Shinchan-themed portfolio**! 🚀  
