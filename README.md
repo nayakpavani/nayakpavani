@@ -19,10 +19,4 @@ I'm **Nayak Pavani**, a **Software Developer** with **2.5 years of experience** 
 
 ⚡ **Fun Fact:** I’m building a **Shinchan-themed portfolio**! 🚀  
 
----
 
-### 🔥 Bonus  
-If you want to make it even cooler, you can add GitHub stats or badges:  
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayakpavani&show_icons=true&theme=radical)
