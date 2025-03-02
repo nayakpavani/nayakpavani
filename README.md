@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Nayak Pavani**, a **Software Developer** with **2.5 years of experience** in front-end development. I specialize in building interactive and high-performance web applications.  
 
-<!--
-**nayakpavani/nayakpavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tech Stack  
+**Languages & Frameworks:**  
+- JavaScript (ES6+), React.js, Vue.js  
+- REST API Integration  
 
-Here are some ideas to get you started:
+**Tools & Technologies:**  
+- GitHub, Postman  
+- Google Cloud Platform, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I Do  
+I love crafting seamless user experiences, optimizing web applications for performance, and staying up-to-date with the latest front-end technologies.  
+
+### 📫 How to Reach Me  
+- [LinkedIn](https://www.linkedin.com/in/pavani-nayak-94b883212/)  
+- 
+- [Email](nayakpavani676@gmail.com)  
+
+⚡ **Fun Fact:** I’m building a **Shinchan-themed portfolio**! 🚀  
+
